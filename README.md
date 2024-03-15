@@ -1,4 +1,4 @@
-Halo Bang, ngaopain kesini
+Halo Bang, ngapain kesini
 
 <!---
 muhammadyusri121/muhammadyusri121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
