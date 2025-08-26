@@ -37,7 +37,14 @@
 
 ---
 
-## 🐍 Snake Animation
+## 🐍 Snake Animation (SVG)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muhammadyusri121/muhammadyusri121/output/snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/muhammadyusri121/muhammadyusri121/output/snake.svg" alt="Snake animation SVG"/>
+</p>
+
+---
+
+## 🐍 Snake Animation (GIF)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muhammadyusri121/muhammadyusri121/output/snake.gif" alt="Snake animation GIF"/>
 </p>
