@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋! My name is [Nama Kamu] and I am a Beginner from [Negara Kamu]</h1>
 
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=USERNAMEKAMU&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadyusri121" />
