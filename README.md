@@ -35,6 +35,5 @@
 
 ## 🐍 Snake Animation
 <p align="center">
-  <img src=" https://raw.githubusercontent.com/rtaserver/rtaserver/output/snake.svg">
- 
+  <img src="https://raw.githubusercontent.com/rtaserver/rtaserver/output/snake.svg" alt="Snake animation"/>
 </p>
