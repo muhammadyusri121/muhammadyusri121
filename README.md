@@ -30,9 +30,9 @@
 
 
 ## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammadyusri121&theme=radical&margin-w=15&margin-h=15&column=7" />
-</p>
+## <p align="center">
+##  <img src="https://github-profile-trophy.vercel.app/?username=muhammadyusri121&theme=radical&margin-w=15&margin-h=15&column=7" />
+## </p>
 
 
 
