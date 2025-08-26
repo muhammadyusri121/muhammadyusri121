@@ -14,10 +14,10 @@
   <a href="https://t.me/tomyam.op">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/USERNAME_IG">
+  <a href="https://instagram.com/y_usr1">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://facebook.com/USERNAME_FB">
+  <a href="https://facebook.com/alvin.alvan.126">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 <p align="center">
