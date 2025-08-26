@@ -6,7 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=USERNAMEKAMU&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadyusri121" />
 </p>
 
----
 
 ## 📊 GitHub Stats
 
@@ -15,14 +14,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyusri121&layout=compact&theme=radical" alt="top langs" height="180"/>
 </p>
 
----
 
 ## 🚀 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,nodejs,linux,vscode,git,github" />
 </p>
 
----
 
 ## 📬 Contact
 <p align="center">
@@ -31,14 +28,13 @@
   </a>
 </p>
 
----
 
 ## 🏆 Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=muhammadyusri121&theme=radical&margin-w=15&margin-h=15&column=7" />
 </p>
 
----
+
 
 ## 📅 Contribution Graph
 <p align="center">
