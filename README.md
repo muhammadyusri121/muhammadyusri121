@@ -13,19 +13,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyusri121&layout=compact&theme=radical" alt="top langs" height="180"/>
 </p>
 
+---
 
 ## 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,nodejs,linux,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,php,mysql,react,flutter,vscode,git,github,linux,docker" />
 </p>
 
+---
 
 ## 📬 Contact
 <p align="center">
   <a href="https://t.me/tomyam.op">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/y_usr1">
+  <a href="https://instagram.com/USERNAME_IG">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://facebook.com/USERNAME_FB">
@@ -33,8 +35,9 @@
   </a>
 </p>
 
+---
 
-
+## 🐍 Snake Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rtaserver/rtaserver/output/snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/muhammadyusri121/muhammadyusri121/output/snake.svg" alt="Snake animation"/>
 </p>
