@@ -4,7 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=muhammadyusri121&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadyusri121" />
 </p>
 
----
 
 ## 📊 GitHub Stats
 
@@ -13,14 +12,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyusri121&layout=compact&theme=radical" alt="top langs" height="180"/>
 </p>
 
----
 
 ## 🚀 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,html,css,js,php,mysql,react,flutter,vscode,git,github,linux,docker" />
 </p>
 
----
 
 ## 📬 Contact
 <p align="center">
@@ -35,16 +32,8 @@
   </a>
 </p>
 
----
 
-## 🐍 Snake Animation (SVG)
+## 🐍 Snake Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muhammadyusri121/muhammadyusri121/output/snake.svg" alt="Snake animation SVG"/>
-</p>
-
----
-
-## 🐍 Snake Animation (GIF)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/muhammadyusri121/muhammadyusri121/output/snake.gif" alt="Snake animation GIF"/>
+  <img src="https://raw.githubusercontent.com/muhammadyusri121/muhammadyusri121/output/snake.svg" alt="Snake animation"/>
 </p>
