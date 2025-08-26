@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Muhammad Yusri and I am a Beginner from Indonesia</h1>
+<h1 align="center">Halo 👋! Nama Kauleh Muhammad Yusri Kauleh asal Jawa Timur</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammadyusri121&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadyusri121" />
