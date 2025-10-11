@@ -8,7 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyusri121&layout=compact&theme=radical" alt="top langs" height="180"/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,php,mysql,react,flutter,vscode,git,github,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=aiscript,python,java,html,css,js,php,mysql,react,flutter,vscode,git,github,linux,docker" />
 
 <p align="center">
   <a href="https://t.me/tomyam.op">
