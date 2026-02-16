@@ -1,4 +1,4 @@
-<h1 align="center">Halo 👋! Nama Kauleh Muhammad Yusri Kauleh asal Jawa Timur</h1>
+<h1 align="center">Halo 👋! I'am Muhammad Yusri</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammadyusri121&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadyusri121" />
