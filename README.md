@@ -60,7 +60,7 @@ Comfortable working with:
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muhammadyusri121/muhammadyusri121/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/rtaserver/rtaserver/output/snake.svg" alt="Snake animation"/>
 </p>
 
 ---
