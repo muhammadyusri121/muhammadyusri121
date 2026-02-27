@@ -8,7 +8,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyusri121&layout=compact&theme=radical" alt="top langs" height="180"/> -->
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aiscript,python,java,js,php,mysql,postgresql,react,flutter,git,github,linux,docker,elixir,Phoenix" />
+  <img src="https://skillicons.dev/icons?i=aiscript,python,java,js,php,mysql,postgresql,react,flutter,git,github,linux,docker,azure,elixir" />
+  [![Phoenix Framework](https://img.shields.io)](https://www.phoenixframework.org/)
+
 
 <p align="center">
   <a href="https://t.me/tomyam.op">
