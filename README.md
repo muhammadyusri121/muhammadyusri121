@@ -9,7 +9,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aiscript,python,java,js,php,mysql,postgresql,react,flutter,git,github,linux,docker,azure,elixir,phoenix" />
-<!-- </p> -->
 
 <p align="center">
   <a href="https://t.me/tomyam.op">
