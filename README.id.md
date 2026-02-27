@@ -56,24 +56,11 @@ Terbiasa bekerja dengan:
 - Konfigurasi VPS  
 - Setup Nginx sebagai reverse proxy  
 
----
-
-## 📈 Statistik GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadyusri121&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyusri121&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🐍 Animasi Contribution
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muhammadyusri121/muhammadyusri121/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/rtaserver/rtaserver/output/snake.svg" alt="Snake animation"/>
 </p>
 
 ---
