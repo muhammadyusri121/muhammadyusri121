@@ -56,12 +56,6 @@ Terbiasa bekerja dengan:
 - Setup Nginx sebagai reverse proxy  
 
 
-## 🐍 Animasi Contribution
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rtaserver/rtaserver/output/snake.svg" alt="Snake animation"/>
-</p>
-
 ---
 
 ## 📫 Hubungi Saya
@@ -82,4 +76,10 @@ Terbiasa bekerja dengan:
   <a href="https://facebook.com/alvin.alvan.126">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rtaserver/rtaserver/output/snake.svg" alt="Snake animation"/>
 </p>
