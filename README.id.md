@@ -2,8 +2,7 @@
   <a href="./README.md">🇬🇧 English</a>
 </p>
 
-# 🚀 Muhammad Yusri
-
+# 🚀 Halo, saya Muhammad Yusri.
 Halo 👋  
 Saya seorang backend-focused developer yang tertarik pada pengembangan sistem, arsitektur server, dan deployment berbasis container.
 
