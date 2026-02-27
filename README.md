@@ -11,6 +11,11 @@
   <img src="https://skillicons.dev/icons?i=aiscript,python,java,js,php,mysql,postgresql,react,flutter,git,github,linux,docker,azure,elixir,phoenix" />
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=aiscript,python,java,js,php,mysql,postgresql,react,flutter,git,github,linux,docker,azure,elixir" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" height="48"/>
+</p>
+
+<p align="center">
   <a href="https://t.me/tomyam.op">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
