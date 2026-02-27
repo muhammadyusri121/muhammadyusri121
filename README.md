@@ -8,9 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyusri121&layout=compact&theme=radical" alt="top langs" height="180"/> -->
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aiscript,python,java,js,php,mysql,postgresql,react,flutter,git,github,linux,docker,azure,elixir,phoenix" />
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=aiscript,python,java,js,php,mysql,postgresql,react,flutter,git,github,linux,docker,azure,elixir" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" height="48"/>
 </p>
