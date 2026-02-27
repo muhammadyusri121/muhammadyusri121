@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="./README.id.md">🇮🇩 Bahasa Indonesia</a>
+</p>
+
 # 🚀 Muhammad Yusri
 
 Hi there 👋  
@@ -17,7 +21,7 @@ I actively build web-based applications, design and manage databases, and deploy
 - Backend development  
 - REST API design  
 - Database architecture  
-- Scalable application development  
+- Scalable backend systems  
 - Server-side performance optimization  
 
 ---
@@ -57,9 +61,22 @@ Comfortable working with:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadyusri121&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadyusri121&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyusri121&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muhammadyusri121/muhammadyusri121/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
+---
 
 ## 📫 Connect With Me
 
@@ -73,14 +90,10 @@ Comfortable working with:
   <a href="https://linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-    <a href="https://instagram.com/y_usr1">
+  <a href="https://instagram.com/y_usr1">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://facebook.com/alvin.alvan.126">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rtaserver/rtaserver/output/snake.svg" alt="Snake animation"/>
 </p>
