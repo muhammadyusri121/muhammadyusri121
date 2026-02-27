@@ -2,7 +2,7 @@
   <a href="./README.id.md">🇮🇩 Bahasa Indonesia</a>
 </p>
 
-# 🚀 Muhammad Yusri
+# 🚀 Hello, I'm Muhammad Yusri
 
 Hi there 👋  
 I'm a backend-focused developer passionate about system development, server architecture, and container-based deployment.
