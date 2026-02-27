@@ -3,9 +3,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammadyusri121&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadyusri121" />
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammadyusri121&show_icons=true&theme=radical" alt="github stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyusri121&layout=compact&theme=radical" alt="top langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyusri121&layout=compact&theme=radical" alt="top langs" height="180"/> -->
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aiscript,python,java,html,css,js,php,mysql,react,flutter,vscode,git,github,linux,docker" />
