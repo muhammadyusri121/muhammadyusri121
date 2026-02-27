@@ -56,13 +56,6 @@ Comfortable working with:
 - VPS configuration  
 - Nginx reverse proxy & server setup  
 
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rtaserver/rtaserver/output/snake.svg" alt="Snake animation"/>
-</p>
-
 ---
 
 ## 📫 Connect With Me
@@ -83,4 +76,10 @@ Comfortable working with:
   <a href="https://facebook.com/alvin.alvan.126">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rtaserver/rtaserver/output/snake.svg" alt="Snake animation"/>
 </p>
