@@ -15,12 +15,16 @@ I actively build web-based applications, design and manage databases, and deploy
   &nbsp;&nbsp;
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadyusri121&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" height="170em"/>
 </p>
-
+<p align="center">
+  <a href="https://github.com/muhammadyusri">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadyusri121&theme=dark&hide_border=true&hide_title=true" alt="GitHub Profile Summary">
+  </a>
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=muhammadyusri121&theme=youtube-dark&locale=en&fire=E25822"/>
   </a>
 </p>
+
 ---
 
 ## 💻 Frequently Used
