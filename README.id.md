@@ -9,6 +9,19 @@ Saya seorang backend-focused developer yang tertarik pada pengembangan sistem, a
 Saya aktif membangun aplikasi berbasis web, merancang dan mengelola database, serta melakukan deployment menggunakan Docker dalam lingkungan Linux.
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=muhammadyusri121&show_icons=true&locale=en&layout=compact&theme=midnight-purple" height="170em"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadyusri121&show_icons=true&locale=en&theme=midnight-purple&include_all_commits=true&count_private=true" height="170em"/>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=muhammadyusri121&theme=midnight-purple&fire=EBA108"/>
+  </a>
+</p>
+
+---
 
 ## 💻 Teknologi yang Sering Digunakan
 
